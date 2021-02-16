@@ -1,0 +1,12 @@
+#map-canvas { height: 500px }
+#map-canvas > div:nth-child(2) { display: none }
+.lead { text-align: center; padding: 1em }
+.cursor { cursor: pointer }
+.site-content { margin: 2rem 80px }
+
+.navigateToArea { color:red; font-weight: bold }
+.navigateToArea:hover { cursor: pointer; color: darkred }
+
+/*.footer { position: fixed; bottom: 0 }
+p.footer:nth-child(2) { bottom: 2rem }
+p.footer:nth-child(3) { bottom: 4rem }*/
